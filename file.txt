@@ -1,1 +1,2 @@
 git is distributed version control system	
+rbase command chek and
